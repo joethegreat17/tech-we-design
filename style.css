@@ -1,0 +1,59 @@
+h1{
+    text-align: center;
+    color: #6b6b6b;
+    font-size: 50px;
+}
+
+h3{
+    font-size: 30px;
+}
+
+li{
+   font-size=20px
+}
+
+.k{
+    text-align: center;
+    height:200px;
+    width:450px;
+
+}
+
+.image{
+  height: 200px;
+  width: 450px;
+}
+body{
+    background-color: #00000;
+    text-align: left;
+}
+
+}
+
+.table{
+    border-color:blue;
+    font-size:16px;
+    color:grey;
+    size: 500px;
+    text-align: center;
+
+
+}
+
+table{
+  text-align: center;
+
+}
+
+.table_img{
+  height:200px;
+  width: 450px;
+}
+
+.th{
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 20px;
+}
